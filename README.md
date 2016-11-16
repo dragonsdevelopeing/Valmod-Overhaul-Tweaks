@@ -36,8 +36,13 @@
   2. *Item & Block Changes*
     * Headshots are lethal with most firearms. *(Bonus Headshot Damage is raised by .3 in most cases.)*
     * Log Spike Traps do more base damage. *(Upgrade paths start at 5 damage for the basic wood log spike and go up by 1 dmg point per upgrade level.)*
+3. **Survival Gameplay Changes**
+  1. *Weathers*
+    * Reduced Rain probability.
+    * Reduced the number of surrounding blocks required to be considered "inside" *(this should help with smaller cover areas such as a  walls of windows and under trees or inside small tents)*
+  
 
-**Random World Generation & Biomes**
+**A word on Random World Generation & Biomes**
 While using this mod you will notice smoother biome transitions, medium and large hills with smooth inclines and declines, much smoother biome placement and more natural snowy peaks. Biomes have been changed for increased density of rocks and resources and for some biomes increased amounts trees and plants for a more natural expierence. Changes specific to the way biomes are generated and placed are abundent which make it too hard too list if you are interested in these changes I suggest comparing the relevant files to the untouched versions.
 
 For example you may come across new sub-biomes and snowberries have been placed exclusively in snowy biomes while blueberries are abundent in forest areas.
