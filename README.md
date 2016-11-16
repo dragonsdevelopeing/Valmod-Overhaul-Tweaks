@@ -55,6 +55,6 @@ For example you may come across new sub-biomes and snowberries have been placed 
 #Todo-List
 - [x] Update the Readme to reflect the many things!
 - [ ] Tweak Terrain Mountain Generation so they are more spread out.
-- [ ] Create Dense Forest Sub-Biome
-- [ ] Tweak Terrain Water Placement for slightly larger bodies of water but not too much.
+- [x] Create Dense Forest Sub-Biome
+- [x] Tweak Terrain Water Placement for slightly larger bodies of water but not too much.
 
