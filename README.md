@@ -3,6 +3,8 @@
  7D2D: A15 Build 105
  Based on Valmod Overhaul v4.16 & Compo Prefab Pack
 
-This is the unstable release of the mod if you are after a stable and finished version download 
+#This version is for development and testing ONLY For the latest stable version please see the URL below.
+https://github.com/Misunderstood-Wookiee/Valmod-Overhaul-Tweaks
 
-#This is an ongoing WIP and DOES impact game performance to some degree.
+#Download this version only if you are sure and don't care about major or minor bugs.
+
