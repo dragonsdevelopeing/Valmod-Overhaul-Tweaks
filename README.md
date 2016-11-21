@@ -2,7 +2,7 @@
 **For** *7 Days to Die: Version A15 Build 105*
 
 **You _MUST HAVE_ the following two 7D2D mods pre-installed**
-[Valmod Overhaul](https://github.com/7days2mod/Valmod-Overhaul). (V.4.16 or later)
+[Valmod Overhaul](https://github.com/7days2mod/Valmod-Overhaul). (V.4.2)
 [Compo Prefab Pack ](https://www.dropbox.com/s/oze63uz82us3u4y/COMPOPACK_24%28for_alpha15stable-b105%29.zip?dl=0). (V24 or Later)
 **Failure to to do so will result in unexpected behavior and/or world save corruption.**
 
@@ -18,7 +18,7 @@
     * Rave Reaper.
     * Child Male.
     * Child Female.
-  2. *General Spawns & Spawn Groups*
+  2. **General Spawns & Spawn Groups**
     * Greatly Increased Global Spawns by roughly 2x the Vanilla amount.
     * Larger Roaming Hoards.
     * Larger Blood Moons.
@@ -40,6 +40,8 @@
   1. *Weathers*
     * Reduced Rain probability.
     * Reduced the number of surrounding blocks required to be considered "inside" *(this should help with smaller cover areas such as a  walls of windows and under trees or inside small tents)*
+  2. *Gameplay*
+    * Player Backpacks last twice as long in the world when players die.
   
 
 **A word on Random World Generation & Biomes**
